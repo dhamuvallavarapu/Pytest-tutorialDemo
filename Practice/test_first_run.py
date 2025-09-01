@@ -15,6 +15,7 @@ def test2_lambdatest_playground():
     print("Title is : ",driver.title)
     driver.close()
     driver.quit()
+    print("Abhi is my frnd")
 
 def main():
     test_lambdatest_playground()
